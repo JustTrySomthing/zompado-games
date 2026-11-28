@@ -1,0 +1,54 @@
+FORTRESS SIEGE: FINAL CONQUEST
+
+Defend your Fortress. Destroy the enemy Fortress to win.
+
+For hands-on practice, choose How to Play on the opening screen. The tutorial uses a separate board.
+
+START A MATCH
+Choose Start Game to open Match Setup. Open the battlefield dropdown to preview Classic, Skirmish, The Narrows, Twin Bridges, Wide Front, or Four Corners. Choose Continue, then press Roll. Each side gets a twelve-sided die (D12). The higher roll goes first. Ties reroll automatically. In an online match, the player who sent the invite presses Roll.
+
+TAKE YOUR TURN
+Choose one move or one attack. Tap a friendly piece to see its options.
+
+Move: Tap a gold hex, then Move Here. You can land on an open hex or on a Mystery Crate.
+Attack: Tap an enemy with an icy-blue rim. The brighter outline and Target card show whom you selected. Tap Attack Now. Your attacker stays on its hex.
+
+READ A CARD
+Tap a troop or Fortress from either side. The down arrow on its compact card opens its abilities and tactics. Tap the up arrow to return.
+
+Health shows current / maximum. Move and Range count hexes. Power is the damage a standard hit deals. Shield is the number the attack roll must beat.
+
+KNOW YOUR PIECES
+Soldier — Moves one hex forward into an empty space. On the enemy back row (the farthest row from its starting side), it can move one hex left or right into an empty space on that row. It can attack any adjacent enemy.
+Ogre — Moves one hex in any direction. Hits hard at close range.
+Barbarian — Moves up to two hexes and can turn along the way. Attacks adjacent enemies.
+Archer — Moves up to two hexes along a clear straight line. Shoots over troops up to three hexes in a straight line.
+Assassin — Moves any distance along a clear straight line. Strikes up to two hexes in a straight line, even past another troop.
+Wizard — Teleports up to two hexes to an empty hex, over intervening pieces. Casts up to two hexes in any direction, even over troops.
+
+DEFEND YOUR FORTRESS
+Each Fortress starts with 50 Health and holds its starting hex. Its expanded card shows Status: Dormant until the first enemy attack, even if that attack deals no damage. It then shows Status: Armed. On your turn, you can fire a boulder over troops up to three hexes into the rows ahead, or at an enemy on a hex directly beside the Fortress. Firing uses your turn.
+
+BATTLES AND REWARDS
+After Ready for Combat, the attack die rolls automatically. A roll above the defender’s Shield lands a hit for the attacker’s Power. An equal or lower roll is repelled. The defender takes no damage from a repelled attack.
+
+If your injured fighter defeats an enemy in a standard battle, tap Roll for Reward. The die restores Health up to the fighter’s maximum. A full-health winner skips the reward roll. The CPU rolls its own rewards.
+
+CRITICAL HEALTH AND DEATH MATCH
+Pieces at one-quarter Health or lower pulse. If both combatants are critical, a skull marks the selected target. Confirming the attack starts a Death Match. Each side rolls automatically with an equal chance to win. Ties reroll. The loser is defeated instantly, regardless of Shield or Power. The winner keeps its current Health.
+
+FINAL SIEGE AND STALEMATE
+If both armies are gone and both Fortresses survive, the Fortresses duel with their remaining Health. Each rolls a D12 per volley. The higher roll deals 8 damage. A tie deals none. Volleys continue until a Fortress falls. If both Fortresses enter at critical Health (12 or less), Final Siege becomes a Death Match. The higher D12 roll destroys the losing Fortress. Ties reroll.
+
+If a side has no legal action, it must pass. Two consecutive passes end the match in a draw.
+
+Online play: Both players need the same game version and Zompa 0.5.53 or later for new matches. The inviter starts the match and rolls for first turn. During battle, the attacker advances the result and rolls any health reward. Both players see the roll and the health gained.
+
+ADVANCED OPTIONS
+Turn on Advanced Options in Match Setup to show Mystery Crates and Border Wall. Both optional rules start off. The inviter sets the rules for both players online. Once play starts, the rules stay fixed for that match.
+
+Mystery Crates: Place 1–6 visible crates with at least one hex between crates. Classic and Wide Front use the middle three rows. Other battlefields scatter crates across the board. Defaults are 3 on Classic, 2 on Skirmish, 3 on The Narrows, 4 on Twin Bridges and Four Corners, and 5 on Wide Front. End a move on a crate to open it. Inside is a potion (+12 Health, capped at full Health) or a bomb (12 damage). With two or more crates, every match has at least one potion and one bomb. A lone crate can contain either. Crates start on empty, playable hexes. Enable crate destruction to attack a crate within your warrior’s normal attack range and reveal its contents before it explodes. The attack takes your turn and does not affect troop Health. Explosions leave a scorch mark. Both players see a summary of enabled features before play.
+
+Border Wall: Classic walls span the center. Skirmish and Wide Front walls span the full center row. The Narrows walls fill the two-hex pass. On Twin Bridges, two lanes curve around the gap. The optional wall seals both lanes at the middle of each bridge. Four Corners starts both Fortresses side by side, with troops spread across four corners. Its wall surrounds the Fortresses with eight sections. Destroy a section to open a lane. Gaps on The Narrows, Twin Bridges, and Four Corners are impassable. Wizard teleports and melee attacks need a playable path within range. Ranged fire can cross gaps within normal range. Set each section’s Health (default 16) and Shield (default 3). Select a troop, select a reachable wall section, then confirm Attack Now. A D12 roll above the Shield deals the attacker’s Power in damage. Attacking uses your turn. A destroyed section opens its hex for movement and does not award Health. Intact wall sections block shots that pass through them unless Ranged Fire Over Wall is enabled. That option lets ranged projectiles cross the wall. Teleportation still needs an open route.
+
+Soldier Resurrection (off by default): When your Soldier first steps onto the enemy back row, choose a Barbarian, Ogre, Wizard, Archer, or Assassin, or keep the Soldier. The chosen warrior replaces it on the same hex at full Health. This is part of the move. If the enemy Fortress is away from its back row, reach a hex directly to its left or right instead. Mystery Crates stay clear of these arrival hexes.

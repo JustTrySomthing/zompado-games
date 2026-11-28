@@ -1,0 +1,33 @@
+{
+  "cover": "cover.webp",
+  "screenshots": [
+    {
+      "file": "shot-1.webp",
+      "label": "Opening cinematic with both kingdoms facing the Fortress"
+    },
+    {
+      "file": "shot-2.webp",
+      "label": "The battlefield and a Red Soldier’s available moves"
+    },
+    {
+      "file": "shot-3.webp",
+      "label": "Red Wizard faces Blue Ogre in an attack roll"
+    },
+    {
+      "file": "shot-4.webp",
+      "label": "Red Archer’s expanded character card and abilities"
+    },
+    {
+      "file": "shot-5.webp",
+      "label": "Death Match between a Red Assassin and a Blue Barbarian"
+    },
+    {
+      "file": "shot-6.webp",
+      "label": "A victorious Ogre can roll for a Health reward"
+    },
+    {
+      "file": "shot-7.webp",
+      "label": "The two Fortresses exchange boulders in Final Siege"
+    }
+  ]
+}
